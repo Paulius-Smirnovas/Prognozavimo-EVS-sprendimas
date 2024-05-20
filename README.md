@@ -1,4 +1,3 @@
-# Prognozavimo-u-davini-EVS-sprendimas
 
 # Duomenų rinkimas ir parengimas:
 
