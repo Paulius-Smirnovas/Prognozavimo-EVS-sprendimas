@@ -28,7 +28,4 @@ Ateities prognozavimas: Nustatoma funkcija „predict_future“, skirta ateities
 
 # Rezultatai ir papildomos užduotys:
 Išvesties rezultatai: Spausdinami modelio vertinimo ir ateities prognozių rezultatai.
-Duomenų eksportas: Išvalyti ir iš anksto apdoroti duomenys eksportuojami į „Parquet“ failą, pavadintą „your_dataset.parquet“.
-Duomenų eksportas (pasirinktinai): Galutinis duomenų rinkinys taip pat eksportuojamas į „Excel“ failą, pavadintą „data.xlsx“.
-Papildomų bibliotekų diegimas: Įdiegiamos papildomos bibliotekos, pavyzdžiui, „TensorFlow“ ir „Plotly“.
 Apskritai šis kodas demonstruoja išsamų požiūrį į realios e. prekybos srities problemos sprendimą, pradedant duomenų rinkimu ir parengimu, baigiant modelio kūrimu, vertinimu ir ateities prognozavimu. Jame demonstruojama geriausia duomenų mokslo praktika, įskaitant duomenų valymą, žvalgomąją duomenų analizę, požymių inžineriją, modelio parinkimą, vertinimą ir optimizavimą.
